@@ -1,4 +1,4 @@
-# 员工薪资管理系统 (codecowmoneysystem)
+# 员工薪资管理系统 (codecowmoneysystem)（码牛）
 
 ## 项目简介
 
